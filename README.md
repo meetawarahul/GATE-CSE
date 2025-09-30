@@ -26,7 +26,7 @@ This repository is a one-stop resource for __GATE Computer Science Engineering (
     4. To know limits of computation (TOC, Discrete Mathematics).
     5. To strengthen quantitative ability (Engineering Mathematics).
 
-* __[About Folder 📌](https://github.com/meetawarahul/GATE-CSE/tree/master/00.GATE%20(ABOUT))__
+* __[About Folder 📌](https://github.com/meetawarahul/GATE-CSE/tree/master/01.GATE%20(ABOUT))__
 
 ## 📑 Syllabus
 
@@ -34,13 +34,13 @@ This repository is a one-stop resource for __GATE Computer Science Engineering (
 * __Topic-wise Segregated Syllabus for each subject.__
 * __Detailed Subtopics for focused preparation.__
 * __PDF Format for easy download and printing.__
-* __[Syllabus Folder 📌](https://github.com/meetawarahul/GATE-CSE/tree/master/01.GATE%20(SYLLABUS))__
+* __[Syllabus Folder 📌](https://github.com/meetawarahul/GATE-CSE/tree/master/02.GATE%20(SYLLABUS))__
 
 ## 📚 Reference Books
 
 * __This folder contains reference books for all subjects.__
 * __This reference book is from top authors.__
-* __[Books Folder 📌](https://github.com/meetawarahul/GATE-CSE/tree/master/02.GATE%20(REFERENCE%20BOOKS))__
+* __[Books Folder 📌](https://github.com/meetawarahul/GATE-CSE/tree/master/03.GATE%20(REFERENCE%20BOOKS))__
 
 ## 📝 Notes
 * __Subject-wise GoClasses Notes (PDF format).__
@@ -50,4 +50,4 @@ This repository is a one-stop resource for __GATE Computer Science Engineering (
 ## 📂 Previous Year Questions (PYQ)
 * __Topic-wise segregated GATE CSE PYQs (1983–2025).__
 * __Practice PDFs and solutions included.__
-* __[PYQ Folder📌](https://github.com/meetawarahul/GATE-CSE/tree/master/04.GATE%20(PYQ%20BOOKS))__
+* __[PYQ Folder📌](https://github.com/meetawarahul/GATE-CSE/tree/master/05.GATE%20(PYQ))__
